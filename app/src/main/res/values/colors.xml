@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_theme_gray">#808080</color>
+    <color name="theme_dark_gray">#63666A</color>
+    <color name="light_gray_theme">#DCDCDC</color>
+    <color name="dark_theme_blue">#9EC8B9</color>
+    <color name="dark_theme_green">#5C8374</color>
+    <color name="dark_theme_light_green">#D0F0C0</color>
+    <color name="dark_theme_teal">#add8e6 </color>
+    <color name="dynamic_theme_background">#A9A9A9</color>
+</resources>
